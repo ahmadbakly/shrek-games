@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+        #launcher {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 1em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 1em;
+}
+
+a {
+  display: block;
+  font-size: 2em;
+  padding: 1em;
+  background-color: #eee;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #333;
+  transition: all 0.3s ease-in-out;
+}
+
+a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+    </style>
+    <title>Game Launcher</title>
+  </head>
+  <body>
+    <div id="launcher">
+      <h1>Game Launcher</h1>
+      <ul>
+        <li><a href="game1.html">Game 1</a></li>
+        <li><a href="game2.html">Game 2</a></li>
+        <li><a href="game3.html">Game 3</a></li>
+      </ul>
+    </div>
+  </body>
+</html>

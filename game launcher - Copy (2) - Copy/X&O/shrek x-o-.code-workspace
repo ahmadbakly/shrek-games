@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../minimax22"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tocaticatocataca"
+	}
+}
